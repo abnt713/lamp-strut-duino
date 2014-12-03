@@ -14,3 +14,12 @@ Para usar este sketch, você vai precisar de duas bibliotecas:
 * [WebDuino](https://github.com/sirleech/Webduino)
 
 Siga as instruções de instalação disponibilizadas nos respectivos README.md em cada repositório
+
+### Vídeo de exemplo
+Um vídeo mostrando o funcionamento de quatro componentes:
+* Lamp Strut-duino
+* [LightHouseController](https://github.com/souzabrizolara/LightHouseController)
+* [HomeShell](https://github.com/alisonbento/py-home-shell)
+* [Lamp Strut Simulator](https://github.com/alisonbento/lamp-strut-simulator)
+
+Confira o vídeo [aqui](https://www.youtube.com/watch?v=Xtx5-FyVxEo) (link do Youtube)
